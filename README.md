@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![project size](https://img.shields.io/github/repo-size/spstiger/KincoDToolsTemplate?label=project%20size)
+![project size](https://img.shields.io/github/repo-size/spstiger/Kinco-HMI-DTools-Dashboard?label=project%20size)
 ![Static Badge](https://img.shields.io/badge/IDE-Kinco_DTools_min._4.4.0-blue?link=https://www.spstiger.de/moorl-dc-v2/85089e4d00614b9fb80f0dfebf415ee0/read?path=Kinco%20DTools/Kinco%20DTools%20V4.4.0.3_Build250508_250613.zip)
 
 # Kinco DTools Beispiel Dashboard
