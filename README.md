@@ -6,7 +6,7 @@
 
 Ein Beispielprojekt für die Darstellung von Werten in einer 4 x 2 Matrix auf einem großen HMI.
 
-![](assets/404a7b71cc9b2a4fc662d3d28bce57da92b9b853.jpg)
+![Dashboard-Darstellung](assets/404a7b71cc9b2a4fc662d3d28bce57da92b9b853.jpg)
 
 ## Benötige Software
 
@@ -19,11 +19,11 @@ Dieses Beispielprogramm für ein Kinco HMI zeigt, wie ihr ein attraktives Dashbo
 * Kacheldarstellung von Messwerten mit Icon, Überschrift und Einheiten
 * Balkendiagramm an der Kachel zur grafischen Darstellung des Werts
 
-![Beispiel](assets/Beispiel.png)
-
 ## Für welche HMI funktioniert dieses Beispielprojekt?
 
 Das Projekt wurde für das **Kinco HMI GT2156E** mit einer Full-HD Auflösung von 1.920 x 1.080 Pixeln erstellt. Es kann auch für kleinere HMI angepasst werden.
+
+![Kinco GT2156E 15,6" HMI Widescreen 16:9 - programmiert mit DTools Classic](https://cdn.spstiger.de/media/e8/b2/b4/1708284801/G2156E.png?width=2000&height={height})
 
 ## Wie starte ich dieses Beispiel?
 
@@ -31,7 +31,7 @@ Das Projekt wurde für das **Kinco HMI GT2156E** mit einer Full-HD Auflösung vo
    
    *siehe Link oben*
 
-2. Ladet die Zip-Datei herunter oder **klont** dieses Projekt zum Beispiel über Github Desktop
+2. Ladet die Zip-Datei unter dem grünen Menüpunkt **<> Code** in Github herunter oder **klont** dieses Projekt zum Beispiel über Github Desktop
 
 3. **Öffnet** dieses Projekt in **Kinco DTools** 
    
@@ -40,7 +40,5 @@ Das Projekt wurde für das **Kinco HMI GT2156E** mit einer Full-HD Auflösung vo
 4. Kompiliert das Projekt im Menü **Werkzeuge**
 
 5. Ruft im Menü **Werkzeuge** die **Offline-Simulation** auf oder übertragt das Projekt im selben Menü per **Download auf das HMI**
-   
-   
 
 ![Kinco DTools Dashboard-Projekt](assets/2026-02-08-15-43-32-image.png)
