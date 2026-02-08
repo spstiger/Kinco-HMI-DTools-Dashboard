@@ -1,0 +1,7 @@
+*.pkgx
+*.bak
+PLCGEDefaultProperties.xml
+
+temp/
+kopieren/
+backup/
